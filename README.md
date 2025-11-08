@@ -14,7 +14,7 @@ Review progress thus far and look to opportunities ahead
 - Consider the Web Sustainability Guidelines approach to highlight roles
 - Consider implications for future WCAG releases
 
-## Presentation for the session
+## Presentation for the breakout
 [Overview.html](https://mgifford.github.io/w3c-tpac-arrm-breakou/Templates/Overview.html)
 
 The presentation starts with an overview. To start the presentation, press play (at the bottom).
