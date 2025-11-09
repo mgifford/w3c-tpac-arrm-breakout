@@ -15,7 +15,7 @@ Review progress thus far and look to opportunities ahead
 - Consider implications for future WCAG releases
 
 ## Presentation for the breakout
-[Overview.html](https://mgifford.github.io/w3c-tpac-arrm-breakou/Templates/Overview.html)
+[Overview.html](https://mgifford.github.io/w3c-tpac-arrm-breakout/Templates/Overview.html)
 
 The presentation starts with an overview. To start the presentation, press play (at the bottom).
 
